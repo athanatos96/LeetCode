@@ -33,4 +33,4 @@ Output: `[0,1]`
 
 ### Follow-up
 
-Can you come up with an algorithm that is less than O(n^2) time complexity?
+Can you come up with an algorithm that is less than $O(n^2)$ time complexity?
