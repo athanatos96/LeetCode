@@ -13,27 +13,27 @@ This repository contains [@atreish](https://github.com/atreish) and my solutions
 - Each problem is stored in a subdirectory with the problem number.
 - In each subdirectory, there is a file called `problem.md` that contains the problem statement and a `solution.ipynb` file that contains the solution.
 
-.
-├── Problems&Solutions
-│   ├── Difficulty_Easy
-│   │   ├── Prob_001_XXXXX
-│   │   │   ├──problem.md
-│   │   │   └──solution.{language extension}
-│   │   └── ...
-│   ├── Difficulty_Medium
-│   │   ├── Prob_002_XXXXX
-│   │   │   ├──problem.md
-│   │   │   └──solution.{language extension}
-│   │   ├── Prob_003_XXXXX
-│   │   │   ├──problem.md
-│   │   │   └──solution.{language extension}
-│   │   └── ...
-│   └── Difficulty_Hard
-│   │   ├── Prob_004_XXXXX
-│   │   │   ├──problem.md
-│   │   │   └──solution.{language extension}
-│   │   └── ...
-└── README.md              
+	.
+	├── Problems&Solutions
+	│   ├── Difficulty_Easy
+	│   │   ├── Prob_001_XXXXX
+	│   │   │   ├──problem.md
+	│   │   │   └──solution.{language extension}
+	│   │   └── ...
+	│   ├── Difficulty_Medium
+	│   │   ├── Prob_002_XXXXX
+	│   │   │   ├──problem.md
+	│   │   │   └──solution.{language extension}
+	│   │   ├── Prob_003_XXXXX
+	│   │   │   ├──problem.md
+	│   │   │   └──solution.{language extension}
+	│   │   └── ...
+	│   └── Difficulty_Hard
+	│   │   ├── Prob_004_XXXXX
+	│   │   │   ├──problem.md
+	│   │   │   └──solution.{language extension}
+	│   │   └── ...
+	└── README.md              
 
 
 
