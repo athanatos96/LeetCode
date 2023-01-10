@@ -14,7 +14,7 @@ This repository contains [@atreish](https://github.com/atreish) and my solutions
 - In each subdirectory, there is a file called `problem.md` that contains the problem statement and a `solution.ipynb` file that contains the solution.
 
 	.
-	├── Problems&Solutions
+	├── problems&Solutions
 	│   ├── Difficulty_Easy
 	│   │   ├── Prob_001_XXXXX
 	│   │   │   ├──problem.md
