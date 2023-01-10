@@ -13,6 +13,7 @@ This repository contains [@atreish](https://github.com/atreish) and my solutions
 - Each problem is stored in a subdirectory with the problem number.
 - In each subdirectory, there is a file called `problem.md` that contains the problem statement and a `solution.ipynb` file that contains the solution.
 
+### top-level directory layout
 	.
 	├── problems&Solutions
 	│   ├── Difficulty_Easy
