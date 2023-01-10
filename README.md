@@ -11,7 +11,7 @@ This repository contains [@atreish](https://github.com/atreish) and my solutions
 ## Organization
 - The solutions are organized by topic and difficulty level.
 - Each problem is stored in a subdirectory with the problem number.
-- In each subdirectory, there is a file called `problem.md` that contains the problem statement and an `solution.ipynb` file that contains the solution.
+- In each subdirectory, there is a file called `problem.md` that contains the problem statement and a `solution.ipynb` file that contains the solution.
 
 ## How to Use
 - Before looking at the solutions, make sure to try solving the problem yourself.
