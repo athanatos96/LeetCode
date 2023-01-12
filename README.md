@@ -46,4 +46,5 @@ This repository contains [@atreish](https://github.com/atreish) and my solutions
 ## Collaborators
 - [@athanatos96](https://github.com/athanatos96)
 - [@atreish](https://github.com/atreish) 
+- [@Gokhman07](https://github.com/Gokhman07) 
 
