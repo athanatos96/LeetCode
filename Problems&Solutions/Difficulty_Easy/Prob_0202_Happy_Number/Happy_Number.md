@@ -1,6 +1,5 @@
 # Happy_Number
 
-
 [Link to the original problem on Leetcode](https://leetcode.com/problems/happy-number/)
 
 ## Problem
